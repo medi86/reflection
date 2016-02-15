@@ -1,0 +1,26 @@
+$ means the shell is ready to take commands
+
+directory = folder = holding files
+
+change directories = cd (name)
+
+mkdir (name)
+
+contents showing = ls (-l,-a and more)
+
+start a vim file = vim (name)
+
+representt home directory = ~
+
+insert mode, command mode
+
+  c
+ab ef
+  d
+
+  c  g
+ab ef ij
+  d  h
+
+
+
