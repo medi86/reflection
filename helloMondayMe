@@ -1,0 +1,11 @@
+TDD equals Test Driven Development. TDD makes your code much precise and saves you
+from many errors you would have.
+TDD will run multiple tests to make sure it's safe to push, yet it might looks like
+run TDD just slow downs the whole process because it needs much time to write the tests
+.However, it will save much time and actual money from getting error after the program
+is published?released?.
+Also, TDD helps to break down big picture into small blocks, so we can solve or programming
+step by step.
+
+
+
